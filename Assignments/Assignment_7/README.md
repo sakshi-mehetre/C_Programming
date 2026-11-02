@@ -1,5 +1,6 @@
 # Assignment 7 – Number Patterns and Looping
 
+
 ## Description
 This assignment contains C programs based on number patterns, number display, odd numbers, and multiplication tables. These programs demonstrate the use of functions, loops, conditional statements, and basic arithmetic operations.
 
